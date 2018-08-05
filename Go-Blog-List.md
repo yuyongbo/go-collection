@@ -1,6 +1,17 @@
 
 # 博客列表
 
+### 雨痕学习笔记
+
+https://github.com/qyuhen/book
+
+### 无闻
+
+https://github.com/Unknwon
+
+### astaxie
+
+https://github.com/astaxie
 
 ### 三月沙
 
