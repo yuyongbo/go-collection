@@ -1,7 +1,20 @@
 # We Go
 
 
-### 空结构体小专题 
+## 文章索引
+
+
+
+1.[空结构体小集](#空结构体小集)
+
+2.[Go的GC之旅](#go的gc之旅)
+
+3.[GoTest](#go-test)
+
+
+
+
+### 空结构体小集 
 
 *Date： 2018.08.04-09:24*
 
@@ -23,7 +36,7 @@ https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3
 
 ---
 
-### Go 的Garbage Collection之旅
+### Go的GC之旅
 
 *Date： 2018.08.06-14:16*
 
