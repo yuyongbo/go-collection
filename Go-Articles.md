@@ -37,7 +37,37 @@ https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3
 
   https://www.cn18k.com/2018/07/21/getting_to_go/
   
+---
   
+### Go Test
+
+*Date： 2018.08.06-22:04*
+
+*Tag： gotest, benchmark*
+
+**1. go 测试，go test 工具的具体指令 flag**
+
+  https://deepzz.com/post/the-command-flag-of-go-test.html
+
+**2. Docker 云平台下 Go 语言单元测试实践**
+
+  https://testerhome.com/topics/6374
+
+**3. 5 advanced testing techniques in Go**
+
+  https://segment.com/blog/5-advanced-testing-techniques-in-go/
+
+**4. Learn Go with tests**
+  * English：
+  
+    https://quii.gitbook.io/learn-go-with-tests/
+    
+  * 中译：
+  
+    https://studygolang.gitbook.io/learn-go-with-tests
+    
+    
+
   
   
   
