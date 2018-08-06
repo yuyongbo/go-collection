@@ -57,5 +57,33 @@
 
 [极客学院Go教程](http://wiki.jikexueyuan.com/list/go/)
 
+## The Go Programming Language
+
+[中文版 Go编程语言](https://docs.hacknode.org/gopl-zh/)
+
+[Example Go编程语言](https://github.com/adonovan/gopl.io)
+
+## Effective Go
+
+[官网 Effective Go](https://docs.hacknode.org/gopl-zh/)
+
+[中文版 Effective Go](https://github.com/adonovan/gopl.io)
+
+[双语版Gitbook](https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
+
+[双语版Github](https://github.com/bingoHuang/effective-go-zh-en)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
