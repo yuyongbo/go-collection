@@ -35,7 +35,7 @@ https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3
 
 * 中译：
 
-  https://www.do1618.com/archives/1429/%E8%B5%B0%E8%BF%9B-go-%E7%9A%84%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E4%B9%8B%E6%97%85/
+  https://www.cn18k.com/2018/07/21/getting_to_go/
   
   
   
