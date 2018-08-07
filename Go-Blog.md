@@ -3,6 +3,8 @@
 
 [雨痕学习笔记](https://github.com/qyuhen/book)
 
+[厚土火烟](https://www.jianshu.com/nb/15181519)
+
 [无闻](https://github.com/Unknwon)
 
 [astaxie](https://github.com/astaxie)
