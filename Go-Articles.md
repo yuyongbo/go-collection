@@ -11,6 +11,7 @@
 
 3. [GoTest](#go-test)
 
+4. [指针、栈、堆、逃逸分析和值传递/地址传递小集](#指针、栈、堆、逃逸分析和值传递地址传递小集)
 
 
 ---
@@ -35,7 +36,7 @@
 
 **2. 如何运用空结构体去改进代码**
 
-https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3bd0c66bc531?source=linkShare-9ed2644a5b08-1533345207
+  https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3bd0c66bc531?source=linkShare-9ed2644a5b08-1533345207
 
 ---
 
@@ -81,8 +82,34 @@ https://medium.com/@l.peppoloni/how-to-improve-your-go-code-with-empty-structs-3
   * 中译：
   
     https://studygolang.gitbook.io/learn-go-with-tests
+
+---
     
-    
+### 指针、栈、堆、逃逸分析和值传递/地址传递小集
+ 
+*Date： 2018.08.08-08:45*
+
+*Tag： gotest, benchmark*
+
+* English：
+
+  - [Language Mechanics On Stacks And Pointers](https://www.goinggo.net/2017/05/language-mechanics-on-stacks-and-pointers.html)
+  
+  - [Language Mechanics On Escape Analysis](https://www.goinggo.net/2017/05/language-mechanics-on-escape-analysis.html)
+  
+  - [Language Mechanics On Memory Profiling](https://www.goinggo.net/2017/06/language-mechanics-on-memory-profiling.html)
+  
+  - [Design Philosophy On Data And Semantics](https://www.goinggo.net/2017/06/design-philosophy-on-data-and-semantics.html)
+  
+* 中译：
+
+  - [Go 语言机制之栈与指针](https://studygolang.com/articles/12443)
+  
+  - [Go 语言机制之逃逸分析](https://studygolang.com/articles/12444)
+  
+  - [Go 语言机制之内存剖析](https://studygolang.com/articles/12445)
+  
+  - [Go 语言机制之数据和语法的设计哲学](https://studygolang.com/articles/12487)
 
   
   
