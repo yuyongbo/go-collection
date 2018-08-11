@@ -13,6 +13,7 @@
 
 4. [指针、栈、堆、逃逸分析和值传递/地址传递小集](#指针-栈-堆-逃逸分析和值传递-地址传递小集)
 
+5. [如何使用subtests和sub-benchmarks](#如何使用subtests和sub-benchmarks)
 
 ---
 
@@ -110,6 +111,20 @@
   - [Go 语言机制之内存剖析](https://studygolang.com/articles/12445)
   
   - [Go 语言机制之数据和语法的设计哲学](https://studygolang.com/articles/12487)
+  
+### 如何使用subtests和sub-benchmarks
+
+*Date： 2018.08.06-22:04*
+
+*Tag： test，benchmark，subtest, sub-benchmark*
+
+* English：
+
+  https://blog.golang.org/subtests
+
+* 中译：
+
+  https://studygolang.com/articles/10391
 
   
   
