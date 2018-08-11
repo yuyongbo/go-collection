@@ -47,5 +47,9 @@
 * Go Playground
 
   [The Go Playground](https://play.golang.org/)
+  
+* Go Talks
+
+  [Go talks](https://talks.golang.org/)
 
   
