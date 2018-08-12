@@ -83,6 +83,8 @@
 [Learning GO Github](https://github.com/miekg/learninggo)
 
 [中文版 Learning GO](https://mikespook.com/learning-go/)
+ 
+[在线中文版 Learning GO](https://github.com/yuyongbo/go-collection/blob/master/GoBooks/%E5%AD%A6%E4%B9%A0%20Go%20%E8%AF%AD%E8%A8%80(Golang).pdf)
 
 
 
