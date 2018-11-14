@@ -15,6 +15,8 @@
 
 5. [如何使用subtests和sub-benchmarks](#如何使用subtests和sub-benchmarks)
 
+6. [架构漫谈](#架构漫谈)
+
 ---
 
 
@@ -125,6 +127,27 @@
 * 中译：
 
   https://studygolang.com/articles/10391
+
+### 架构漫谈
+
+[1.什么是架构？](https://kb.cnblogs.com/page/539160/)
+
+[2.认识概念是理解架构的基础](https://kb.cnblogs.com/page/539838/)
+
+[3.如何做好架构之识别问题](https://kb.cnblogs.com/page/540096/)
+
+[4.如何做好架构之架构切分](https://kb.cnblogs.com/page/540705/)
+
+[5.什么是软件](https://kb.cnblogs.com/page/541188/)
+
+[6.软件架构到底是要解决什么问题？](https://kb.cnblogs.com/page/541740/)
+
+[7.不要空设架构师这个职位，给他实权](https://kb.cnblogs.com/page/542257/)
+
+[8.从架构的角度看如何写好代码](https://kb.cnblogs.com/page/542725/)
+
+[9.理清技术、业务和架构的关系](https://kb.cnblogs.com/page/543110/)
+
 
   
   
